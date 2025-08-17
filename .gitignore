@@ -1,0 +1,15 @@
+# User-specific Xcode files
+*.xcuserstate
+xcuserdata
+
+# Build directories
+build/
+DerivedData/
+
+# macOS system files
+.DS_Store
+
+# Xcode temporary files
+*.hmap
+*.ipa
+*.moved-aside
