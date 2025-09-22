@@ -19,3 +19,5 @@ struct EventApp: App {
 #Preview {
     EventListView()
 }
+
+
